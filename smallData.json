@@ -1,0 +1,44 @@
+{
+  "queueDuration": 4,
+  "queryDuration": 287,
+  "results": [
+    {
+      "resultSet": true,
+      "data": [
+        {
+          "Number of Bedrooms": 4,
+          "Rent Price": 2300,
+          "Latitude": 37.721393,
+          "Longitude": -122.3960919
+        },
+        {
+          "Number of Bedrooms": 4,
+          "Rent Price": 2300,
+          "Latitude": 37.721393,
+          "Longitude": -122.3960919
+        },
+        {
+          "Number of Bedrooms": 4,
+          "Rent Price": 2300,
+          "Latitude": 37.721393,
+          "Longitude": -122.3960919
+        },
+        {
+          "Number of Bedrooms": 4,
+          "Rent Price": 2300,
+          "Latitude": 37.721393,
+          "Longitude": -122.3960919
+        },
+        {
+          "Number of Bedrooms": 4,
+          "Rent Price": 2300,
+          "Latitude": 37.721393,
+          "Longitude": -122.3960919
+        },
+        {
+          "Number of Bedrooms": 4,
+          "Rent Price": 2300,
+          "Latitude": 37.721393,
+          "Longitude": -122.3960919
+        }
+]}]

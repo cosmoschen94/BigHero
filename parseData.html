@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Test Parsing a JSON File</title>
+<script>
+$(function()
+{
+  var JSONData = $.getJSON("smallData.json", function(json){console.log(json);});
+  var data = JSON.parse(JSONData);
+
+  window.alert(JSONData);
+  window.alert("JSON");
+})
+
+
+</script> 
+</head>
+</html>
