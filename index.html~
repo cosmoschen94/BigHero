@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <script src="http://www.webglearth.com/v2/api.js"></script>
+    <script>
+      function initialize() {
+        var earth = new WE.map('earth_div');
+        WE.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(earth);
+      }
+    </script>
+  </head>
+  <body onload="initialize()">
+    <div id="earth_div" style="width:600px;height:400px;"></div>
+  </body>
+</html>
