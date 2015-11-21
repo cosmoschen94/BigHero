@@ -1,3 +1,5 @@
+Executing query: SELECT numbedrooms AS "Number of Bedrooms", price AS "Rent Price", latitude AS "Latitude", longitude AS "Longitude" FROM housing_data.san_francisco_rental_listings ORDER BY 4 DESC;
+RESULTS: SUCCESS
 {
   "queueDuration": 4,
   "queryDuration": 287,
